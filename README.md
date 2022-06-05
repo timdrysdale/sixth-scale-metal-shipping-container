@@ -408,6 +408,7 @@ drill out end of barrel jack plug, solder wires, heatshrink power wire inside th
 
 4-6mm 3:1 heatshrink for the inner one? 12mm 3:1 for the outer?
 
+NOTE DC wires to motor in spinners were 500mm but really needed 550-600mm overall.
 
 
 ### Note on wire ends going into terminal blocks
@@ -439,3 +440,7 @@ e.g. [clinch nut installation tool](./img/clinch-nut-installation-tool.png). Our
 - hydraulic folder
 - TR25 Torx security screw driver
 - heat gun for the stickering
+
+TODO - when working out BOM, work out quantity break points that make sense for ordering, e.g. if we want to make 5/10 boxes, order this amount of stuff. Whatever seems sensible based on MOQs.
+
+
